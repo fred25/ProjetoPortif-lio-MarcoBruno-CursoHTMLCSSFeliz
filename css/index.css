@@ -2,20 +2,6 @@ body{
     background-color: rgb(160, 77, 77);
 }
 
-h1{
-    font-family: 'Press Start 2P';
-    font-weight: 400;
-    font-size: 40px;
-    color: #fff;
-}
-
-h2{
-    font-family: 'Press Start 2P';
-    font-weight: 400;
-    font-size: 30px;
-    color: #fff;
-}
-
 header{
     display: flex;
     justify-content: space-between;
@@ -64,34 +50,4 @@ a::before{
     background-color: cyan;
     color: #000;
     transform: scale(1.1);
-}
-
-.box{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-
-    width: 627px;
-    height: 184px;
-
-    background-color: #3A4042;
-    box-shadow: 10px 10px 0px #000;
-}
-
-#name{
-    color: #F25A70;
-    margin-bottom: 28px;
-}
-
-.title{
-    display: block;
-    text-shadow: 4px 4px 0px black;
-}
-
-#title-buttons{
-    display: flex;
-    justify-content: start;
-    text-align: center;
-    margin: 38px;
 }
