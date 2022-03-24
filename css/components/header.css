@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #7C5E99;
+    border-bottom: 10px solid rgb(0, 0, 0);
+    padding: 10px 20px;
+}
+
+.header img{
+    height: 60px;
+}
