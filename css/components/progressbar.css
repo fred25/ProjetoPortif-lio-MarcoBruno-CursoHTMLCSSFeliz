@@ -1,0 +1,7 @@
+.progressbar{
+    display: block;
+    width: 370px;
+    height: 40px;
+    background-color: #7C5E99;
+    border: 5px solid black;
+}
