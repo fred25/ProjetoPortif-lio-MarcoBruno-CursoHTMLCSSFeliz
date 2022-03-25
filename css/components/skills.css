@@ -1,0 +1,10 @@
+.skills{
+    display: block;
+    height: 730px;
+    background-color: #F25A70;
+    border-bottom: 10px solid #7C5E99;
+}
+
+.skills .title{
+    text-shadow: none;
+}
