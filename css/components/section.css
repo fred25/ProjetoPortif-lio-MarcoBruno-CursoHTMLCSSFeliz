@@ -1,29 +1,31 @@
-.skills{
+.section{
     display: block;
     height: 730px;
     background-color: #F25A70;
     border-bottom: 10px solid #7C5E99;
+    padding-bottom: 100px;
+    padding-top: 50px;
 }
 
-.skills .skill-item{
+.section .skill-item{
     display: inline-flex;
     margin: 27px;
 }
 
-.skills .title-bar{
+.section .title-bar{
     margin-left: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
-.skills-wrapper{
+.section-wrapper{
     display: flex;
     flex-direction: column;
     justify-content: end;
 }
 
-.skills .final-wrapper{
+.section .final-wrapper{
     display: flex;
     justify-content: space-around;
 }
