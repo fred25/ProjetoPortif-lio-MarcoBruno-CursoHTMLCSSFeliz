@@ -5,13 +5,6 @@
     border-bottom: 10px solid #7C5E99;
 }
 
-.skills .title{
-    text-shadow: none;
-    text-align: center;
-    padding-top: 50px;
-    margin-bottom: 60px;
-}
-
 .skills .skill-item{
     display: inline-flex;
     margin: 27px;
