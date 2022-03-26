@@ -19,6 +19,9 @@
     width: 320;
 }
 
-.wrapper-skill .projects{
-    
+.wrapper-skill.-projects{
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
