@@ -1,0 +1,16 @@
+.project-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280;
+    height: 280;
+    box-shadow: 10px 10px 0px white;
+}
+
+.project-box.-box-1{
+    background-color: #7C5E99;
+}
+
+.project-box.-box-2{
+    background-color: #4C5B84;
+}

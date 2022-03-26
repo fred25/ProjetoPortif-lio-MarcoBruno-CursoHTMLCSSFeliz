@@ -1,7 +1,15 @@
 .section{
-    height: 730px;
     background-color: #F25A70;
     border-bottom: 10px solid #7C5E99;
-    padding-bottom: 100px;
     padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.section .main-title{
+    margin-bottom: 60px;
+}
+
+.section.-projects-section{
+    background-color: black;
+    border-color: #F25A70;
 }
