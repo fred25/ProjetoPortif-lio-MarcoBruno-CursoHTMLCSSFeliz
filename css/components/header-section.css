@@ -1,4 +1,4 @@
-.header{
+.header-section{
     display: flex;
     justify-content: space-between;
     background-color: #7C5E99;
@@ -6,6 +6,6 @@
     padding: 10px 20px;
 }
 
-.header img{
+.header-section img{
     height: 60px;
 }

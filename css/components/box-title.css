@@ -1,8 +1,9 @@
-.box{
+.box-title{
     display: inline-block;
     text-align: center;
     padding: 42px 44px;
 
+    margin-bottom: 55px;
     background-color: #3A4042;
     box-shadow: 10px 10px 0px #000;
 }

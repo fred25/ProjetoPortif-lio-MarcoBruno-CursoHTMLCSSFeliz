@@ -1,4 +1,4 @@
-.button {
+.action-button {
     display: inline-block;
     background-color: #F25A70;
     color:white;
@@ -9,7 +9,7 @@
     transition: 0.15s ease-in-out;
 }
 
-.button:hover{
+.action-button:hover{
     background-color: cyan;
     color: #000;
     transform: scale(1.1);
