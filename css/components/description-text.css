@@ -1,0 +1,13 @@
+.description-text{
+    display: block;
+    font-family: "Fira Code", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    font-style: normal;
+    width: 1280px;
+    height: 312px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
